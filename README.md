@@ -68,7 +68,7 @@ To get started with the application, follow the instructions below to set up the
     npm start
 
      ```
-    ### Usage
+ ### Usage
 
 - **Creating an Event**: Navigate to the "Create Event" page using the sidebar. Fill out the form and submit to create a new event.
 - **Viewing Events**: On the homepage, you can view all created events. Click on "Open Event Details" to view more information about a specific event.
