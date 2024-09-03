@@ -57,15 +57,16 @@ To get started with the application, follow the instructions below to set up the
 
 2.  **Install dependencies:**
 
-    bash
-
-    `npm install`
+    ```bash
+   npm install
+   ```
 
 3.  **Start the application:**
 
-    bash
+     ```bash
 
-    `npm start`
+    npm start
+```
 
     ### Usage
 
