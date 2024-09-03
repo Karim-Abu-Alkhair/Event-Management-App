@@ -15,7 +15,7 @@ This is a simple event management application built with React and `react-router
 5.  [Technologies Used](#technologies-used)
 6.  [Setup](#setup)
 7.  [Usage](#usage)
-8.  [License](#license)
+
 
 ### Getting Started
 
@@ -61,13 +61,13 @@ To get started with the application, follow the instructions below to set up the
    npm install
    ```
 
-3.  **Start the application:**
+3.  **Start the application:**
 
-     ```bash
+     ```bash
 
-    npm start
-```
+    npm start
 
+     ```
     ### Usage
 
 - **Creating an Event**: Navigate to the "Create Event" page using the sidebar. Fill out the form and submit to create a new event.
